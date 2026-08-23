@@ -115,7 +115,3 @@ bun run dev
 | `bun run db:studio` | Open Drizzle Studio visual web GUI          |
 
 ---
-
-## 📄 License
-
-MIT
